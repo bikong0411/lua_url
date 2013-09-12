@@ -24,6 +24,8 @@ pprint:pprint(tb)
 
 output
 =========
+<pre>
+<code>
 urlencode http://www.baidu.com/?wd=测啊实打实的
 http%3A%2F%2Fwww.baidu.com%2F%3Fwd%3D%B2%E2%B0%A1%CA%B5%B4%F2%CA%B5%B5%C4
 urldecode
@@ -43,3 +45,5 @@ parse_str a=2&b=3
      VAR[8] a => 2
      VAR[9] b => 3
 ]
+</code>
+</pre>
