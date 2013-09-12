@@ -1,7 +1,7 @@
 lua_url
 =======
 
-a url module in lua ,include urlencode(url_escape)、urldecode(url_unescape)、http_build_query、parse_str
+a url module in lua ,include urlencode(url_escape)、urldecode(url_unescape)、http_build_query、parse_str operation
 
 usage:
 <pre>
